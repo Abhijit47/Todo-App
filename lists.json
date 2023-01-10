@@ -1,0 +1,65 @@
+[{
+  "_id": {
+    "$oid": "6375dc95880ddd313cabac0d"
+  },
+  "name": "Home",
+  "items": [
+    {
+      "_id": {
+        "$oid": "6375dc39880ddd313cabac0a"
+      },
+      "name": "Drinking Water"
+    },
+    {
+      "_id": {
+        "$oid": "6375dc39880ddd313cabac0b"
+      },
+      "name": "Eating Food"
+    },
+    {
+      "_id": {
+        "$oid": "6375dc39880ddd313cabac0c"
+      },
+      "name": "Sleeping"
+    },
+    {
+      "_id": {
+        "$oid": "6375dca9880ddd313cabac11"
+      },
+      "name": "Get Early"
+    }
+  ],
+  "__v": 1
+},{
+  "_id": {
+    "$oid": "6375dccc880ddd313cabac13"
+  },
+  "name": "Work",
+  "items": [
+    {
+      "_id": {
+        "$oid": "6375dc39880ddd313cabac0a"
+      },
+      "name": "Drinking Water"
+    },
+    {
+      "_id": {
+        "$oid": "6375dc39880ddd313cabac0b"
+      },
+      "name": "Eating Food"
+    },
+    {
+      "_id": {
+        "$oid": "6375dc39880ddd313cabac0c"
+      },
+      "name": "Sleeping"
+    },
+    {
+      "_id": {
+        "$oid": "6375dcd8880ddd313cabac17"
+      },
+      "name": "Read Emails"
+    }
+  ],
+  "__v": 1
+}]

@@ -1,0 +1,19 @@
+[{
+  "_id": {
+    "$oid": "6375cd59b8365b3388788e30"
+  },
+  "name": "Drinking Water",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6375cd59b8365b3388788e31"
+  },
+  "name": "Eating Food",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6375cd59b8365b3388788e32"
+  },
+  "name": "Sleeping",
+  "__v": 0
+}]
