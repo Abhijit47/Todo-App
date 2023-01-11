@@ -2,15 +2,16 @@
   "name": "todolist-v1",
   "version": "1.0.0",
   "description": "",
+   "engines": {
+    "node": "18.12.1"
+  },
   "main": "app.js",
   "scripts": {
     "start": "node app.js"
   },
   "author": "",
   "license": "ISC",
-  "engines": {
-    "node": "14.x"
-  },
+ 
   "dependencies": {
     "body-parser": "^1.18.3",
     "dotenv": "^16.0.3",

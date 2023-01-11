@@ -12,7 +12,7 @@ app.use(bodyParser.urlencoded({ extended: true }));
 app.use(express.static("public"));
 
 //Connecting to database with mongoose
-mongoose.connect(process.env.DATABASE_URI, { useNewUrlParser: true });
+mongoose.connect(process.env.MONGODB_URI, { useNewUrlParser: true });
 
 //Then we create a schema
 const itemsSchema = {
